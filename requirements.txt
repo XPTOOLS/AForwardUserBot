@@ -1,11 +1,9 @@
 pyrofork
 motor
 TgCrypto
-Dnspython
-https://devgagan.in/wp-content/uploads/2023/12/gagantelethon.zip
+dnspython
 cryptg
 tgcrypto
-Pyrogram==2.0.93
 psutil
 opencv-python-headless
 python-decouple
