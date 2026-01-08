@@ -46,7 +46,7 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 - Update the `__init__.py` and `config.py` files with your bot's specific variables before deployment.
 - Ensure that your bot is configured correctly according to the requirements of the Telegram Bot API.
 
-## Commands Available in Bot - [TEAM SPY](https://t.me/xptoolsteam)
+## Commands Available in Bot - XP TOOLS TEAM](https://t.me/xptoolsteam)
 
 - ```/start``` - to start the bot
 - ```/cancel``` - to cancel the onging /batch task
