@@ -43,8 +43,7 @@ class Translation(object):
 │ 👨‍💻 ᴅᴇᴠᴘʟᴏᴇʀ : <a href=https://t.me/Am_itachiuchiha>ITACHI UCHIHA</a>
 │ 🤖 ᴜᴘᴅᴀᴛᴇ  : <a href=https://t.me/xptoolsteam>XP Tools Team</a>
 │ 📡 ʜᴏsᴛ ᴏɴ : <a href=https://render.com/>Render</a>
-│ 🗣️ ʟᴀɴɢᴜᴀɢᴇ  : ᴘʏᴛʜᴏɴ 3 
-{python_version}
+│ 🗣️ ʟᴀɴɢᴜᴀɢᴇ  : ᴘʏᴛʜᴏɴ 3
 │ 📚 ʟɪʙʀᴀʀʏ  : ᴘʏʀᴏɢʀᴀᴍ  
 ╰────────────────────⍟</b>"""
   
