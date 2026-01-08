@@ -46,7 +46,7 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 - Update the `__init__.py` and `config.py` files with your bot's specific variables before deployment.
 - Ensure that your bot is configured correctly according to the requirements of the Telegram Bot API.
 
-## Commands Available in Bot - [TEAM SPY](https://t.me/dev_gagan)
+## Commands Available in Bot - [TEAM SPY](https://t.me/xptoolsteam)
 
 - ```/start``` - to start the bot
 - ```/cancel``` - to cancel the onging /batch task
@@ -59,11 +59,11 @@ Advance Telegram Bot that can work as Message/Files Forwarder from Restricted or
 
 ## Support
 
-[<img src="https://img.icons8.com/ios/50/000000/instagram-new.png"/>](https://instagram.com/devagagn.in)
-[<img src="https://img.icons8.com/ios/50/000000/youtube.png"/>](https://youtube.com/@dev_gagan)
-[<img src="https://img.icons8.com/ios/50/000000/telegram-app.png"/>](https://t.me/dev_gagan)
-[<img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>](https://github.com/devgaganin)
-[<img src="https://img.icons8.com/ios/50/000000/domain--v1.png"/>](https://devgagan.in)
+[<img src="https://img.icons8.com/ios/50/000000/instagram-new.png"/>](https://instagram.com/ramy.phoenix)
+[<img src="https://img.icons8.com/ios/50/000000/youtube.png"/>](https://youtube.com/@freenethubtech)
+[<img src="https://img.icons8.com/ios/50/000000/telegram-app.png"/>](https://t.me/xptoolsteam)
+[<img src="https://img.icons8.com/ios/50/000000/github--v1.png"/>](https://github.com/anonyxguy)
+[<img src="https://img.icons8.com/ios/50/000000/domain--v1.png"/>](https://xptools-portfolio.vercel.app)
 
 ## Terms of USE / Modification 
 Visit [Terms](https://github.com/devgaganin/Save-Restricted-Content-Bot-Repo/blob/main/TERMS_OF_USE.md) and accept the guidelines.
